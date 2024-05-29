@@ -1,0 +1,269 @@
+body {
+    margin: 0;
+    font-family: sans-serif;
+    /* border-top: ; */
+    
+}
+
+.a1{
+    /* Rectangle 1 */
+
+
+width: 100%;
+height: 75px;
+
+
+background: linear-gradient(90deg, #B3E99A 0%, #658357 100%);
+
+
+}
+.aaa{
+    /* Star 4 */
+
+position: absolute;
+width: 50px;
+height: 48px;
+/* left: 1308px; */
+top: 9px;
+
+/* background: #EEF227; */
+
+}
+
+.hhh{
+    /* Star 4 */
+
+position: absolute;
+width: 50px;
+height: 48px;
+/* left: 1308px; */
+top: 9px;
+left: 55px;
+
+/* background: #EEF227; */
+
+}
+.ppp{
+    /* Star 4 */
+
+position: absolute;
+width: 50px;
+height: 48px;
+/* left: 1308px; */
+top: 9px;
+left: 105px;
+
+/* background: #EEF227; */
+
+}
+.al{
+/* Mario_Series_Logo 1 */
+
+position: absolute;
+width: 200px;
+height: 65px;
+
+background: url(Mario_Series_Logo);
+top:5px;
+right: 220px;
+}
+.l{
+width: 100px;
+border: none;
+border-radius:50%;
+height: 60px;
+right: 50px;
+/* left: 520px; */
+top:6px;
+position: absolute;
+background: url(https://fbi.cults3d.com/uploaders/16058289/illustration-file/1ca6e766-d948-4c86-bda2-c6b053d6780f/super_rotating.gif)
+}
+.po{
+/* png-klev-club-o8bl-p-mario-pikselnii-png-14 1 */
+
+
+
+width: 101px;
+height: 135px;
+margin-left: 10px;
+/* left: 100px;
+top: 102px; */
+/* right: 50px; */
+margin-right: 50px;
+background: url(png-klev-club-o8bl-p-mario-pikselnii-png-14.png);
+transform: matrix(-1, 0, 0, 1, 0, 0);
+border:none solid 5px;
+
+}
+.p{
+display: flex;
+margin-top: 20px;
+margin-left: 10%;
+/* margin-right: 20px; */
+/* margin:  10px; */
+/* padding: 15px; */
+width: 80%;
+}
+h1{
+    text-align: center;
+    padding: 10px 0px;
+
+    background: linear-gradient(90deg, #B3E99A 0%, #658357 100%);
+
+
+}
+.po2{
+/* png-klev-club-o8bl-p-mario-pikselnii-png-14 1 */
+
+
+
+width: 195px;
+height: 135px;
+/* left: 100px;
+top: 102px; */
+/* right: 50px; */
+/* margin-right: 50px; */
+transform: matrix(-1, 0, 0, 1, 0, 0);
+border:none solid 5px;
+}
+
+.text{
+    margin: 25px;
+}
+
+.a11{
+    /* Rectangle 1 */
+
+
+width: 100%;
+height: 35px;
+
+
+background: linear-gradient(90deg, #B3E99A 0%, #658357 100%);
+
+
+}
+.io{
+    display: flex;
+    margin: 25px;
+}
+
+nav{
+   
+    /* margin-top:50px; */
+    height: 40px;
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 23px;
+display: flex;
+justify-content: space-around;
+padding-top: 23px;
+padding-left: 10%;
+padding-right: 10%;
+background: linear-gradient(90deg, #B3E99A 0%, #658357 100%);
+border-bottom: ;
+
+}
+.qq{
+    color: black;
+    font-size: 25px;
+    padding: -15%;
+    border: none;
+
+}
+.qo{
+    color: black;
+    font-size: 25px;
+    padding: -15%;
+    border: none;
+
+}
+.qp{
+    color: black;
+    font-size: 25px;
+    padding: -15%;
+    border: none;
+
+}
+.ql{
+    color: black;
+    font-size: 25px;
+    padding: -15%;
+    border: none;
+
+}
+.qp:hover{
+    color: rgb(38, 138, 231);
+    font-family: 'Courier New', Courier, monospace;
+    background-color: black;}
+.qq:hover{
+    color: rgb(237, 211, 13);
+    font-family: 'Courier New', Courier, monospace;
+    background-color: black;
+}
+
+.ql:hover{
+    color: rgb(223, 19, 19);
+    font-family: 'Courier New', Courier, monospace;
+    background-color: black;
+    
+}
+
+
+.qo:hover{
+    color: rgb(97, 237, 62);
+    font-family: 'Courier New', Courier, monospace;
+    background-color: black;
+}
+.a{
+
+font-family: 'Courier New', Courier, monospace;
+}
+
+.a:hover{
+background-color: #db6845;
+
+
+}
+
+p{
+    padding: 0 30px;
+}
+.name_img{
+    display: inline-block;
+    margin-left: 20px;
+    
+}
+h2{
+    text-align: center;
+    font-size: 50px;
+}
+.klass{
+border-radius: 50%;
+border:10px solid none;
+}
+
+footer{
+     background: linear-gradient(90deg, #B3E99A 0%, #658357 100%);
+     height: 150px;
+}
+.ft{
+    margin-top: 15px;
+    margin-left: 30px;
+}
+.u:hover{
+color: rgb(228, 228, 102);
+}
+.y{
+height: 55px;
+width: 55pxp;
+border-radius:20% ;
+}
+.t{
+height: 55px;
+width: 55pxp;
+border-radius:20% ;
+
+}
